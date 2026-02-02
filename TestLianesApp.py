@@ -2,7 +2,7 @@ import streamlit as st
 from sqlalchemy import create_engine, text
 from datetime import date
 import pandas as pd
-
+import pymysql
 st.set_page_config(page_title="Liane's Library", page_icon="📚", layout="wide")
 
 st.markdown("""
