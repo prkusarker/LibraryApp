@@ -2,6 +2,8 @@
 Manage personal library: A simple, modular library management application built with Python, Streamlit, and SQLAlchemy.
 This project demonstrates clean CRUD design, database modelling, UI structure, and deployment‑ready architecture.
 
+https://github.com/prkusarker/LibraryApp/blob/804eb75fafa5c86bf8befd60c0b90524f04ef25d/Screenshot_2-2-2026_23641_localhost.jpeg
+
 🗺️ **Project Roadmap**
 
 A structured roadmap outlining the development phases, milestones, and future enhancements for the **LibraryApp** project. This roadmap reflects both completed work and planned improvements, demonstrating the application's evolution from a simple CRUD tool to a polished, deployable system.
