@@ -4,3 +4,4 @@ mysql-connector-python
 openpyxl
 xlsxwriter
 sqlalchemy
+pymysql
