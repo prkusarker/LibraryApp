@@ -55,8 +55,7 @@ A structured roadmap outlining the development phases, milestones, and future en
 - Converted MySQL schema to PostgreSQL  
 - Prepared connection string for Streamlit Secrets  
 
-**2. Deployment Readiness**
-- Updated requirements (`psycopg2-binary`, SQLAlchemy)  
+**2. Deployment Readiness**  
 - Refactored DB connection to use environment secrets  
 - Ensured compatibility with cloud hosting  
 
